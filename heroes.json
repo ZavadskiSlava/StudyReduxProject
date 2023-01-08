@@ -1,0 +1,60 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": "98220f92-0f8c-4357-bd3b-9e371c493046",
+      "name": "фвыавыа",
+      "description": "фвыаываы",
+      "element": "wind"
+    },
+    {
+      "id": "a2ac61e8-53a6-4538-a486-ed677bd71b14",
+      "name": "qdfeqer",
+      "description": "adfasdf",
+      "element": "water"
+    },
+    {
+      "id": "9fc2779f-1ea2-44d2-9157-267ee2d70a98",
+      "name": "afsdfasdf",
+      "description": "qerwerqwerwer",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "id": 1,
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": 2,
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": 3,
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": 4,
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": 5,
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
